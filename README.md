@@ -1,2 +1,2 @@
-# Taller-de-librer-as-Juan-P-rez-y-Sergio-Ayala-
+# Taller-de-librer-as-Juan-Perez-y-Sergio-Ayala-
 Taller de librerias 
